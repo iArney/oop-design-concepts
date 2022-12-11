@@ -17,7 +17,7 @@ class Role {
     }
 }
 
-const tutor = new Role('MrLevinius', 'example@mail.com')
+const tutor = new Role('MrLivinus', 'example@mail.com')
 tutor.uploadVideo()
 Role.loggedIn()
 
